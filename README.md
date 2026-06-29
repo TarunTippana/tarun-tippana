@@ -19,6 +19,17 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 - 📊 Currently upskilling in Advanced Data Science @ **Innomatics Research Labs**
 
 ---
+### 💼 Experience
+
+- **Data Analyst Intern (AI Engineering Focus)** @ Intellentech Pvt Ltd (Jan 2026 - Mar 2026)
+  - Built Agentic AI hiring assistant with LangChain/LangGraph
+  - Designed RAG pipelines with ChromaDB and LLM APIs
+  - Integrated LangSmith for tracing and debugging
+
+- **Data Science Trainee** @ Innomatics Research Labs (Current)
+  - Advanced training in Data Science, ML, and AI systems
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -51,15 +62,53 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 
 ### 🏆 Featured Projects
 
-#### [HR AI Scout - Agentic Hiring Assistant]
-> **LangChain · LangGraph · RAG · Mistral AI · Groq · ChromaDB · FastAPI**
+HR AI Scout - Agentic Hiring Assistant (Add your repo link)
+LangChain · LangGraph · RAG · Mistral AI · Groq · ChromaDB · FastAPI · LangSmith
 
-Production-ready agentic workflow automating resume screening, candidate shortlisting, and interview query generation. Features stateful graphs, conditional routing, tool calling, and FastAPI endpoints.
+A production-grade, end-to-end Agentic AI system developed during my internship at Inteltechnet Pvt Ltd, designed to automate 70-80% of routine HR tasks and streamline the recruitment pipeline.
+
+🚀 Key Features & Capabilities:
+
+Agentic Workflow Orchestration: Built a stateful, multi-step agentic workflow using LangChain and LangGraph. Implemented conditional routing and state graphs to manage complex, decision-driven HR processes like resume screening, candidate shortlisting, and interview query generation.
+
+Custom Tool Integration: Developed and integrated custom tools for document parsing, candidate data retrieval, and automated scoring, enabling the agent to interact with external data sources seamlessly.
+
+Advanced RAG Pipeline: Designed a complete Retrieval-Augmented Generation (RAG) pipeline (chunking → embedding → retrieval → response grounding) over HR policy documents and job description repositories. Used ChromaDB as the vector store and FAISS for efficient similarity search.
+
+LLM Integration & Prompt Engineering: Leveraged Mistral AI and Groq LLM APIs for critical tasks including:
+
+Intent Extraction: Understanding candidate queries and HR requirements
+
+Candidate Scoring: Automatically ranking applicants based on JD fitment
+
+Interview Query Generation: Creating contextually relevant, role-specific questions
+
+Observability & Debugging: Integrated LangSmith for comprehensive tracing, debugging, and evaluation of LLM and agent trajectories, ensuring system reliability and performance transparency.
+
+Production-Ready API Layer: Exposed the agent's capabilities through FastAPI REST APIs, allowing external systems (like ATS platforms) to trigger retrieval, orchestration, and automated actions programmatically.
+
+CI/CD & Version Control: Managed code with GitHub, implemented CI/CD workflows, and maintained unit testing to ensure production-grade code quality.
+
+📊 Business Impact: Reduced manual HR effort by 70-80%, significantly accelerating the recruitment cycle and improving candidate-role matching accuracy.
+
+
 
 #### [LLM Review Analyst - LangGraph Workflow]
 > **LangGraph · Groq · Streamlit · Pydantic**
 
-A smart review analysis system built with LangGraph that detects sentiment (positive/negative), diagnoses issues in negative reviews (UX, Performance, Bug, Support), analyzes tone and urgency, and generates appropriate empathetic responses. Deployed as an interactive web app using Streamlit.
+A smart, agentic review analysis system built with LangGraph. It analyzes customer feedback, detects sentiment, and generates appropriate responses through a structured workflow:
+
+- **Sentiment Analysis:** Classifies reviews as Positive or Negative.
+- **Conditional Routing:** Routes positive reviews to a thank-you response generator and negative reviews to a diagnostic node.
+- **Issue Diagnosis (for Negative Reviews):** Identifies the **Issue Type** (UX, Performance, Bug, Support, Other), analyzes the **Tone** (angry, frustrated, disappointed, calm), and detects **Urgency** (low, medium, high).
+- **Smart Response Generation:** Crafts empathetic, context-aware replies based on the diagnosis.
+
+**Example:** For a review like *"The product is broken and also the colour that I have expected is faded"*, the system correctly identifies:
+- **Sentiment:** Negative
+- **Issue Type:** Bug
+- **Tone:** Angry
+- **Urgency:** High
+- **Response:** An empathetic, high-priority support message.
 
 [![Hugging Face Space](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/taruntippana/llm-review-analyst)
 
@@ -79,17 +128,6 @@ Scraped and classified 10,000+ multi-label data points with 80% accuracy using l
 
 ---
 
-### 💼 Experience
-
-- **Data Analyst Intern (AI Engineering Focus)** @ Inteltechnet Pvt Ltd (Jan 2026 - Mar 2026)
-  - Built Agentic AI hiring assistant with LangChain/LangGraph
-  - Designed RAG pipelines with ChromaDB and LLM APIs
-  - Integrated LangSmith for tracing and debugging
-
-- **Data Science Trainee** @ Innomatics Research Labs (Current)
-  - Advanced training in Data Science, ML, and AI systems
-
----
 
 ### 📫 Let's Connect
 
