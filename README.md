@@ -20,6 +20,19 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 
 ---
 
+
+### 💼 Experience
+
+- **Data Analyst Intern (AI Engineering Focus)** @ Inteltechnet Pvt Ltd (Jan 2026 - Mar 2026)
+  - Built Agentic AI hiring assistant with LangChain/LangGraph
+  - Designed RAG pipelines with ChromaDB and LLM APIs
+  - Integrated LangSmith for tracing and debugging
+
+- **Data Science Trainee** @ Innomatics Research Labs (Current)
+  - Advanced training in Data Science, ML, and AI systems
+ 
+---
+
 ### 🛠️ Tech Stack
 
 **Core AI & LLMs:**
@@ -50,32 +63,22 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 
 ### 🏆 Featured Projects
 
-#### [HR AI Scout - Agentic Hiring Assistant](https://github.com/tarun-tippana/hr-ai-scout) *(Add your repo link)*
+#### [HR AI Scout - Agentic Hiring Assistant](https://github.com/tarun-tippana/hr-ai-scout) 
 > **LangChain · LangGraph · RAG · Mistral AI · Groq · ChromaDB · FastAPI**
 
 Production-ready agentic workflow automating resume screening, candidate shortlisting, and interview query generation. Features stateful graphs, conditional routing, tool calling, and FastAPI endpoints.
 
-#### [Diet Plan Suggester](https://github.com/tarun-tippana/diet-suggester) *(Add your repo link)*
+#### [Diet Plan Suggester](https://github.com/tarun-tippana/diet-suggester) 
 > **Scikit-learn · Pandas · Logistic Regression · Streamlit · Hugging Face**
 
 ML classification system with 90% accuracy, deployed on Hugging Face Spaces for real-time predictions.
 
-#### [Stack Overflow Tags Prediction](https://github.com/tarun-tippana/stackoverflow-tags) *(Add your repo link)*
+#### [Stack Overflow Tags Prediction](https://github.com/tarun-tippana/stackoverflow-tags) 
 > **Python · TF-IDF · Scikit-learn · BeautifulSoup**
 
 Scraped and classified 10,000+ multi-label data points with 80% accuracy using logistic regression.
 
----
 
-### 💼 Experience
-
-- **Data Analyst Intern (AI Engineering Focus)** @ Inteltechnet Pvt Ltd (Jan 2026 - Mar 2026)
-  - Built Agentic AI hiring assistant with LangChain/LangGraph
-  - Designed RAG pipelines with ChromaDB and LLM APIs
-  - Integrated LangSmith for tracing and debugging
-
-- **Data Science Trainee** @ Innomatics Research Labs (Current)
-  - Advanced training in Data Science, ML, and AI systems
 
 ---
 
