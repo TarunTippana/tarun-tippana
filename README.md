@@ -67,7 +67,7 @@ LangChain · LangGraph · RAG · Mistral AI · Groq · ChromaDB · FastAPI · La
 
 A production-grade, end-to-end Agentic AI system developed during my internship at Inteltechnet Pvt Ltd, designed to automate 70-80% of routine HR tasks and streamline the recruitment pipeline.
 
-# 🚀 Key Features & Capabilities:
+### 🚀 Key Features & Capabilities:
 
 Agentic Workflow Orchestration: Built a stateful, multi-step agentic workflow using LangChain and LangGraph. Implemented conditional routing and state graphs to manage complex, decision-driven HR processes like resume screening, candidate shortlisting, and interview query generation.
 
