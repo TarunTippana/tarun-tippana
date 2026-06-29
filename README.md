@@ -20,19 +20,6 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 
 ---
 
-
-### 💼 Experience
-
-- **Data Analyst Intern (AI Engineering Focus)** @ Intellentech Pvt Ltd (Jan 2026 - Mar 2026)
-  - Built Agentic AI hiring assistant with LangChain/LangGraph
-  - Designed RAG pipelines with ChromaDB and LLM APIs
-  - Integrated LangSmith for tracing and debugging
-
-- **Data Science Trainee** @ Innomatics Research Labs (Current)
-  - Advanced training in Data Science, ML, and AI systems
- 
----
-
 ### 🛠️ Tech Stack
 
 **Core AI & LLMs:**
@@ -51,6 +38,7 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 **Programming & Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
@@ -68,17 +56,38 @@ I'm an AI Engineer with hands-on experience building **production-ready agentic 
 
 Production-ready agentic workflow automating resume screening, candidate shortlisting, and interview query generation. Features stateful graphs, conditional routing, tool calling, and FastAPI endpoints.
 
+#### [LLM Review Analyst - LangGraph Workflow]
+> **LangGraph · Groq · Streamlit · Pydantic**
+
+A smart review analysis system built with LangGraph that detects sentiment (positive/negative), diagnoses issues in negative reviews (UX, Performance, Bug, Support), analyzes tone and urgency, and generates appropriate empathetic responses. Deployed as an interactive web app using Streamlit.
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/taruntippana/llm-review-analyst)
+
 #### [Diet Plan Suggester]
 > **Scikit-learn · Pandas · Logistic Regression · Streamlit · Hugging Face**
 
-ML classification system with 90% accuracy, deployed on Hugging Face Spaces for real-time predictions.
+ML classification system achieving 90% accuracy after hyperparameter tuning. Features EDA, feature engineering, and model deployment on Hugging Face Spaces for real-time dietary predictions.
+
+[![Hugging Face Space](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/taruntippana/Diet_plan_suggestor)
 
 #### [Stack Overflow Tags Prediction]
 > **Python · TF-IDF · Scikit-learn · BeautifulSoup**
 
-Scraped and classified 10,000+ multi-label data points with 80% accuracy using logistic regression.
+Scraped and classified 10,000+ multi-label data points with 80% accuracy using logistic regression. Demonstrates NLP preprocessing and multi-label classification skills.
 
+[![Hugging Face Space](https://img.shields.io/badge/🤗-Live_Demo-yellow)](https://huggingface.co/spaces/taruntippana/stackoverflow_tags)
 
+---
+
+### 💼 Experience
+
+- **Data Analyst Intern (AI Engineering Focus)** @ Inteltechnet Pvt Ltd (Jan 2026 - Mar 2026)
+  - Built Agentic AI hiring assistant with LangChain/LangGraph
+  - Designed RAG pipelines with ChromaDB and LLM APIs
+  - Integrated LangSmith for tracing and debugging
+
+- **Data Science Trainee** @ Innomatics Research Labs (Current)
+  - Advanced training in Data Science, ML, and AI systems
 
 ---
 
